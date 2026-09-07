@@ -1,53 +1,50 @@
-# Aurelia Grand Hotel
+<div align="center">
 
-A modern, elegant hotel website designed to provide a premium digital experience for guests.
+# 🏨 AURELIA GRAND HOTEL
 
-## 🌐 Live Website
+### Timeless Luxury. Modern Comfort.
 
-Add your live website link here.
+<a href="https://waheed-web.github.io/Aurelia-Grand-Hotel/">
 
-## ✨ Features
+<img src="./Screenshot%202026-09-08%20005126.png"
+     alt="Aurelia Grand Hotel Website Preview"
+     width="900">
 
-* Responsive design for desktop, tablet, and mobile
-* Premium hotel-focused user interface
-* Room and suite showcase
-* Hotel amenities section
-* Booking-focused call-to-action
-* Contact and location information
-* Modern navigation
-* Professional typography and visual hierarchy
-* Dark mode support
+</a>
+
+<br><br>
+
+<a href="https://waheed-web.github.io/Aurelia-Grand-Hotel/">
+  <strong>✦ VIEW LIVE WEBSITE ✦</strong>
+</a>
+
+</div>
+
+---
+
+## ✨ About
+
+Aurelia Grand Hotel is a modern luxury hotel website featuring an elegant dark interface, refined typography, and gold-accented design.
+
+## 🌟 Features
+
+- 🏨 Luxury hotel experience
+- 🛏️ Rooms & suites
+- 🍽️ Fine dining
+- 🖼️ Gallery
+- 💎 Amenities
+- 🎉 Events
+- 📞 Contact
+- 🌐 Multi-language support
+- 📱 Responsive design
 
 ## 🛠️ Technologies
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
-## 📱 Responsive Design
+## 🌐 Live Demo
 
-The website is designed to work smoothly across:
-
-* Desktop
-* Laptop
-* Tablet
-* Mobile
-
-## 📸 Project Preview
-
-Add screenshots of the website here.
-
-## 🎯 Project Goal
-
-The goal of this project was to create a professional hotel website that communicates luxury, trust, comfort, and a premium guest experience while making important information easy to find.
-
-## 👨‍💻 Developer
-
-**Waheed-Web**
-
-GitHub: Add your GitHub profile link here.
-
-## 📄 License
-
-This project is created as a portfolio project.
+**[✦ Visit Aurelia Grand Hotel ✦](https://waheed-web.github.io/Aurelia-Grand-Hotel/)**
