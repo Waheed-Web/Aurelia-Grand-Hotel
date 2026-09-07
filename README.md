@@ -5,24 +5,27 @@
 ### ✦ Timeless Luxury. Modern Comfort. ✦
 
 <p>
-  A modern luxury hotel website designed with an elegant dark interface,
-  premium typography, and sophisticated gold accents.
+A premium responsive luxury hotel website designed with
+an elegant dark interface and sophisticated gold accents.
 </p>
 
 <br>
 
 <a href="https://waheed-web.github.io/Aurelia-Grand-Hotel/">
   <img
-    src="./Screenshot%202026-09-08%20005126.png"
+    src="./website-preview.png"
     alt="Aurelia Grand Hotel Website Preview"
-    width="100%"
+    width="900"
   >
 </a>
 
 <br><br>
 
 <a href="https://waheed-web.github.io/Aurelia-Grand-Hotel/">
-  <img src="https://img.shields.io/badge/✦%20VIEW%20LIVE%20WEBSITE-D9B65D?style=for-the-badge&logoColor=black" alt="View Live Website">
+  <img
+    src="https://img.shields.io/badge/✦_VIEW_LIVE_WEBSITE-D9B65D?style=for-the-badge&labelColor=111111"
+    alt="View Live Website"
+  >
 </a>
 
 </div>
@@ -31,44 +34,38 @@
 
 ## 🏨 About The Project
 
-**Aurelia Grand Hotel** is a modern luxury hotel website created to provide an elegant,
-immersive, and responsive digital experience for hotel guests.
+**Aurelia Grand Hotel** is a modern luxury hotel website
+created to deliver an elegant and immersive digital
+hospitality experience.
 
-The website combines a sophisticated dark theme with warm gold accents,
-large editorial typography, smooth interactions, and a premium hospitality aesthetic.
+The project combines premium visual design with responsive
+frontend development, interactive navigation, hotel services,
+dining, events, galleries, and multilingual support.
 
 ---
 
 ## ✨ Features
 
-| Feature | Description |
-|---|---|
-| 🏠 Home | Luxury hero section with immersive visual design |
-| 🛏️ Rooms | Explore available rooms and accommodation |
-| ℹ️ About | Information about Aurelia Grand Hotel |
-| 🖼️ Gallery | Visual showcase of the hotel |
-| 🍽️ Dining | Restaurant and dining experience |
-| 💎 Amenities | Hotel facilities and services |
-| 🎉 Events | Events and special occasions |
-| 📞 Contact | Contact and enquiry section |
-| 🌐 Languages | Multi-language interface |
-| 📱 Responsive | Works across desktop, tablet and mobile |
+- 🏨 Luxury hotel homepage
+- 🛏️ Rooms & accommodation
+- 🍽️ Fine dining experience
+- 🖼️ Hotel gallery
+- 💎 Premium amenities
+- 🎉 Events & celebrations
+- 📞 Contact section
+- 🌐 Multi-language support
+- 📱 Fully responsive design
+- ✨ Modern interactive UI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-<p>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/Responsive%20Design-111111?style=for-the-badge">
-
-</p>
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure |
+| CSS3 | Styling, animations & responsive design |
+| JavaScript | Interactions & functionality |
 
 ---
 
@@ -93,4 +90,7 @@ Aurelia-Grand-Hotel/
 ├── dining.html
 ├── events.html
 ├── gallery.html
-└── rooms.html
+├── rooms.html
+│
+├── website-preview.png
+└── README.md
