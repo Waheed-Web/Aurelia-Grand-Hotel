@@ -12,30 +12,25 @@ an elegant dark interface and sophisticated gold accents.
 <br>
 
 <a href="https://waheed-web.github.io/Aurelia-Grand-Hotel/">
-  <img
-    src="./website-preview.png"
-    alt="Aurelia Grand Hotel Website Preview"
-    width="900"
-  >
+<img src="./website-preview.png"
+     alt="Aurelia Grand Hotel Website Preview"
+     width="900">
 </a>
 
 <br><br>
 
 <a href="https://waheed-web.github.io/Aurelia-Grand-Hotel/">
-  <img
-    src="https://img.shields.io/badge/✦_VIEW_LIVE_WEBSITE-D9B65D?style=for-the-badge&labelColor=111111"
-    alt="View Live Website"
-  >
+<img src="https://img.shields.io/badge/✦_VIEW_LIVE_WEBSITE-D9B65D?style=for-the-badge&labelColor=111111" alt="View Live Website">
 </a>
 
 </div>
 
 ---
 
-## 🏨 About The Project
+## 🏨 About
 
 **Aurelia Grand Hotel** is a modern luxury hotel website
-created to deliver an elegant and immersive digital
+created to provide an elegant and immersive digital
 hospitality experience.
 
 The project combines premium visual design with responsive
@@ -48,13 +43,13 @@ dining, events, galleries, and multilingual support.
 
 - 🏨 Luxury hotel homepage
 - 🛏️ Rooms & accommodation
-- 🍽️ Fine dining experience
+- 🍽️ Dining experience
 - 🖼️ Hotel gallery
-- 💎 Premium amenities
-- 🎉 Events & celebrations
+- 💎 Amenities
+- 🎉 Events
 - 📞 Contact section
 - 🌐 Multi-language support
-- 📱 Fully responsive design
+- 📱 Responsive design
 - ✨ Modern interactive UI
 
 ---
@@ -64,7 +59,7 @@ dining, events, galleries, and multilingual support.
 | Technology | Purpose |
 |---|---|
 | HTML5 | Website structure |
-| CSS3 | Styling, animations & responsive design |
+| CSS3 | Styling & responsive design |
 | JavaScript | Interactions & functionality |
 
 ---
